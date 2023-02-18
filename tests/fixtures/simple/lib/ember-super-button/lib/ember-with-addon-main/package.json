@@ -1,0 +1,12 @@
+{
+  "name": "ember-with-addon-main",
+  "ember": {
+    "edition": "octane"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "ember-addon": {
+    "main": "lib/main.js"
+  }
+}

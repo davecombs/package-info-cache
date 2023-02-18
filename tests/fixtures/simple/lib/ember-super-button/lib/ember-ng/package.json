@@ -1,0 +1,9 @@
+{
+  "name": "ember-ng",
+  "ember": {
+    "edition": "octane"
+  },
+  "keywords": [
+    "ember-addon"
+  ]
+}

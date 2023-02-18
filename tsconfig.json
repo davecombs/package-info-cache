@@ -1,0 +1,29 @@
+{
+  "include": ["src/**/*.ts"],
+  "compilerOptions": {
+    // Compilation Configuration
+    "lib": ["es2021"],
+    "target": "es2021",
+    "sourceMap": true,
+    "experimentalDecorators": true,
+
+    // Enhance Strictness
+    "strict": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedParameters": true,
+    "skipLibCheck": true,
+
+    // Environment Configuration
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+
+    // output options
+    "outDir": "./dist",
+    "preserveConstEnums": false,
+    "newLine": "LF",
+    "traceResolution": false,
+    "module": "commonjs",
+    "jsx": "preserve"
+  }
+}

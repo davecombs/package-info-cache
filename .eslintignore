@@ -1,0 +1,5 @@
+# ignore compiled output
+lib/
+
+# ignore fixtures
+tests/fixtures/

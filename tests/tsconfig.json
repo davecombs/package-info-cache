@@ -1,0 +1,4 @@
+{
+  // This tsconfig is here so that we can lint the tests
+  "include": ["./**/*.ts"]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "external-dependency",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "keywords": [
+    "ember-addon"
+  ],
+  "ember": {
+    "edition": "octane"
+  },
+  "dependencies": {
+    "ember-cli-string-utils": "latest",
+    "@octokit/rest": "latest",
+    "ember-cli-blueprint-test-helpers": "latest"
+  }
+}
