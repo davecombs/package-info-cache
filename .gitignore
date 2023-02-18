@@ -65,6 +65,7 @@ typings/
 
 # Yarn3
 .yarn/install-state.gz
+.yarn/cache
 
 # dotenv environment variables file
 .env
