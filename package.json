@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "utility cache for package.json data inside a (for now ember) project",
   "main": "./dist/cjs/index.js",
+  "module": "./dist/es/index.js",
   "type": "module",
   "types": "dist/index.d.ts",
   "exports": {

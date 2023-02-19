@@ -6,6 +6,7 @@
     "target": "es2021",
     "sourceMap": true,
     "experimentalDecorators": true,
+    "declaration": true,
 
     // Enhance Strictness
     "strict": true,
