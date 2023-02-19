@@ -33,7 +33,7 @@ coverage
 build/Release
 
 # Top-level node_modules only (test data contains node_modules)
-node_modules/
+/node_modules/
 
 
 # TypeScript v1 declaration files
